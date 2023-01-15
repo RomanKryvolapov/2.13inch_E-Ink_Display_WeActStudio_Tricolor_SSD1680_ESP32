@@ -14,7 +14,7 @@
 <p> PIN_UART_RX = 16</p>
 <p> PIN_DISPLAY_BUSY = 15, Used for SSD1680</p>
 
-![1!](https://github.com/RomanKryvolapov/LCD_MONOCHROME_128x64_GMG12864-06D_ST7565_ESP32/blob/master/Display.jpg "1")
+![1!](https://github.com/RomanKryvolapov/2.13inch_E-Ink_WeActStudio_Tricolor_SSD1680_ESP32/blob/master/Display.jpg "1")
 
-![2!](https://github.com/RomanKryvolapov/LCD_MONOCHROME_128x64_GMG12864-06D_ST7565_ESP32/blob/master/ESP32-Pinout.png "2")
+![2!](https://github.com/RomanKryvolapov/2.13inch_E-Ink_WeActStudio_Tricolor_SSD1680_ESP32/blob/master/ESP32-Pinout.png "2")
 
